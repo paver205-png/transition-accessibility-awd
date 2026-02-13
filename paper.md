@@ -449,10 +449,11 @@ References
 [12] Risken — The Fokker–Planck Equation
 [13] Maes & Netočný — Time-reversal and entropy
 
-Correspondence: archer-205@gmail.com
+Correspondence: paver205@gmail.com
 
 
 License: CC BY 4.0
 
 
 This work is dedicated to those who seek patterns beneath equations and meaning beyond mechanism.
+
