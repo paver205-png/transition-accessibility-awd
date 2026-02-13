@@ -5,6 +5,7 @@ A Mathematical Framework and a Philosophical Reflection
 A Kinetic Description of Transition-Dominated Regimes
 
 Author: Valerii Bychkov
+
 Date: February 2026
 
 Abstract
@@ -452,5 +453,6 @@ Correspondence: archer-205@gmail.com
 
 
 License: CC BY 4.0
+
 
 This work is dedicated to those who seek patterns beneath equations and meaning beyond mechanism.
