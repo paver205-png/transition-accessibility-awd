@@ -3,7 +3,7 @@ Transition Accessibility in Markov Dynamics — Accessibility-Weighted Dynamics 
 # Transition Accessibility in Markov Dynamics
 ## Accessibility-Weighted Dynamics (AWD)
 
-**Author:** Valerii Bychkovc  
+**Author:** Valerii Bychkov  
  **Date:** February 2026  
 
 ---
